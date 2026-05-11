@@ -1,0 +1,4 @@
+Name,Active
+Rahul,yes
+Priya,yes
+Sneha,yes
