@@ -20,3 +20,6 @@ print("Multiplication:\n")
 print(np.multiply(A,B)) #or use A*B
 print("Dot operation:\n")
 print(np.dot(A,B))
+
+print("Transpose:\n")
+print(A.T)
